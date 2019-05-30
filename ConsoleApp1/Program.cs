@@ -29,12 +29,22 @@ namespace ConsoleApp1
             //reading input from the user
             Console.ReadLine();
 
-           
-
-            //drawing a shape 
 
 
+            // data types
 
-        }
+            //storing plain text
+            String charactername = "Supun Sandeeptha";
+            char grade = 'A';
+
+            //integers
+           int number = 12;
+            double gpa = 13;
+
+
+        
+
+
+    }
     }
 }
